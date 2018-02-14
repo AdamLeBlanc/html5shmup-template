@@ -1,4 +1,4 @@
-Project template project for [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon)
+Project template project for [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read)
 
 **Note for older versions of the book (pre-October 2014):**
 
